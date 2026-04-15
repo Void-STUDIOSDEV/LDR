@@ -2,6 +2,7 @@ FILE STRUCTURE
 ---------------
 FILES / LICENSE
 FILES -> release1.py / test.py
+
 ---------------
 INFORMATION
 ---------------
