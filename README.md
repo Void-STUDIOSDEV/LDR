@@ -9,5 +9,5 @@ INFORMATION
 ---------------
 "release1.py" is the main code. 
 "test.py" is to test shutils. 
-variable "sleep" just shortens
+ variable "sleep" just shortens
 "time.sleep" into "sleep(<>)".
