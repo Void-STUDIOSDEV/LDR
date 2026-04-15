@@ -1,6 +1,6 @@
 FILE STRUCTURE
 ---------------
-FILES / LICENSE
+FILES / LICENSE |
 
 FILES -> release1.py / test.py
 
